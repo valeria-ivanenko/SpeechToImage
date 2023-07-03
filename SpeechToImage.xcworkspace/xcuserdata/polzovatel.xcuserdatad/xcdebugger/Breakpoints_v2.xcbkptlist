@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B815AEF4-669F-47D1-9AC1-C6245A2587D6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B863B4A8-DCE6-45F5-A9A7-31AC4A848AB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechToImage/TraslatorUK2EN.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "translateUK2EN(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B863B4A8-DCE6-45F5-A9A7-31AC4A848AB3 - 26bfa9d0f03e6cec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpeechToImage.TraslatorUK2EN.translateUK2EN(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "SpeechToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polzovatel/Desktop/KMA/3%20%D0%BA%D1%83%D1%80%D1%81/Summer/ML:AR%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%85%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20iOS/SpeechToImage/SpeechToImage/TraslatorUK2EN.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "421">
+               </Location>
+               <Location
+                  uuid = "B863B4A8-DCE6-45F5-A9A7-31AC4A848AB3 - c85026f4098566f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechToImage.TraslatorUK2EN.translateUK2EN(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "SpeechToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polzovatel/Desktop/KMA/3%20%D0%BA%D1%83%D1%80%D1%81/Summer/ML:AR%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%85%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20iOS/SpeechToImage/SpeechToImage/TraslatorUK2EN.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "145">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BF2A18B-3987-4EA0-8F97-A544BFA630D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechToImage/TraslatorUK2EN.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "translateUK2EN(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1BF2A18B-3987-4EA0-8F97-A544BFA630D1 - c85026f40985699a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechToImage.TraslatorUK2EN.translateUK2EN(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "SpeechToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polzovatel/Desktop/KMA/3%20%D0%BA%D1%83%D1%80%D1%81/Summer/ML:AR%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%85%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20iOS/SpeechToImage/SpeechToImage/TraslatorUK2EN.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "1BF2A18B-3987-4EA0-8F97-A544BFA630D1 - c85026f40985699a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechToImage.TraslatorUK2EN.translateUK2EN(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "SpeechToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polzovatel/Desktop/KMA/3%20%D0%BA%D1%83%D1%80%D1%81/Summer/ML:AR%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%85%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20iOS/SpeechToImage/SpeechToImage/TraslatorUK2EN.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "281">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63C5DC24-A7A5-4096-8A40-F76EB6F1E59D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechToImage/TraslatorUK2EN.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "translateUK2EN(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63C5DC24-A7A5-4096-8A40-F76EB6F1E59D - c85026f409856839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechToImage.TraslatorUK2EN.translateUK2EN(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "SpeechToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polzovatel/Desktop/KMA/3%20%D0%BA%D1%83%D1%80%D1%81/Summer/ML:AR%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%85%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20iOS/SpeechToImage/SpeechToImage/TraslatorUK2EN.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "322">
+               </Location>
+               <Location
+                  uuid = "63C5DC24-A7A5-4096-8A40-F76EB6F1E59D - c85026f409856839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechToImage.TraslatorUK2EN.translateUK2EN(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "SpeechToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polzovatel/Desktop/KMA/3%20%D0%BA%D1%83%D1%80%D1%81/Summer/ML:AR%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%85%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20iOS/SpeechToImage/SpeechToImage/TraslatorUK2EN.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "313">
+               </Location>
+               <Location
+                  uuid = "63C5DC24-A7A5-4096-8A40-F76EB6F1E59D - 8f9c1ecf8e784775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechToImage.TraslatorUK2EN.translateUK2EN(text: Swift.String) -&gt; ()"
+                  moduleName = "SpeechToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polzovatel/Desktop/KMA/3%20%D0%BA%D1%83%D1%80%D1%81/Summer/ML:AR%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%85%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20iOS/SpeechToImage/SpeechToImage/TraslatorUK2EN.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "267">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B0F06E4-36D6-4F1C-AACB-9BE22126B3A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechToImage/TraslatorUK2EN.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "TraslatorUK2EN"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

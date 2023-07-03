@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "a_photo_of_a_hedgehog_riding_a_motorbike_in_the_countryside.636446470.final.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
